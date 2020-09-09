@@ -5,7 +5,7 @@
  + with: 김태현, 김상현, 박지훈, 박현우.
  + This project is the graduation work of the 2nd semester of the 4th grade of the Department of Computer Science at Kyunggi University.
 
-
+<br>
 
 ## Introduction
 
@@ -18,7 +18,7 @@
   4. 신원 정보 조회 및 메일링 : 마지막으로 신원 정보를 조회하여 데이터베이스에 저장된 해당 적발자의 증거 사진을 첨부하여, 해당 적발 대상에서 메일을 보내는 방식으로 시스템이 구성되어 있다. 여기서 HTML의 Mailto는 HTML의 링크 타입에 속한다. 이 링크는 사용자의 컴퓨터에 깔려 있는 메일 클라이언트를 실행시켜서 E-Mail을 보낼 수 있게 해주는 태그이다. 
      ![process](https://user-images.githubusercontent.com/62137510/92366301-ef5fa080-f12f-11ea-8c99-74f897e4c4eb.PNG)
 
-
+<br>
 
 ## Development Environment
 
@@ -26,13 +26,13 @@
 
 ![1](https://user-images.githubusercontent.com/50494545/92564579-5a39e480-f2b4-11ea-931b-cab9241d0d2c.PNG)
 
-
+<br>
 
 ### Software Composition
 
 ![2](https://user-images.githubusercontent.com/50494545/92564612-67ef6a00-f2b4-11ea-944a-84718bbb02a9.PNG)
 
-
+<br>
 
 ## Usage
 + 유튜브 사용 설명 링크
